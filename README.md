@@ -1,4 +1,4 @@
-# Sample-code
+# Pgls analysis
 
 This code depicts a phylogenetic comparative method known as phylogenetic generalized least squares (pgls). The question is: After controlling for phylogenetic history, is there a relationship between eye morphology and activity cycle or trophic level of a mammal? 
 
